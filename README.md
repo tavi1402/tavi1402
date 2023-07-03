@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tavishi </h1>
 <h3 align="center">A Passionate Data Science Practitioner</h3>
 
-<p>I Have completed Data Science and Machine Learning Bootcamp by <a href="https://jovian.ai/vasanthsai26">Jovian</a></p>
+<p>I Have completed Data Science and Machine Learning Bootcamp by <a href="https://jovian.com/tavishi-1402">Jovian</a></p>
 <p>
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 </p>
-<p>Highlights: 500+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
+<p>Highlights: 500+ hours of coursework, 10 coding assignments, 4 projects (Web scraping, EDA, ML,DL)
 </p> 
 
 
-<p>Check out my <a href="https://vasanthsai26.github.io/">Protfolio</a></p>
+
 
 
 
