@@ -30,7 +30,7 @@ Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine 
 
 - 📝 I regularly write articles on [Medium](http://medium.com/@tavishi)
 
-- 💬 Ask me about **Machine Learning, NLP(ML), Data Analysis, Python, Web Scraping**
+- 💬 Ask me about **Machine Learning,Deep Learning, NLP, Data Analysis, Python, Web Scraping**
 
 - 📫 How to reach me **tavishi.1402@gmail.com**
 
