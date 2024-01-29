@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tavishi </h1>
-<h3 align="center">A Passionate Data Science Practitioner</h3>
+<h3 align="center">A Passionate Data Scientist</h3>
 
 <p>I Have completed Data Science and Machine Learning Bootcamp by <a href="https://jovian.com/tavishi-1402">Ineuron</a></p>
 <p>
