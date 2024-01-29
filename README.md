@@ -3,10 +3,8 @@
 
 <p>I Have completed Data Science and Machine Learning Bootcamp by <a href="https://jovian.com/tavishi-1402">Ineuron</a></p>
 <p>
-Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
-</p>
-<p>Highlights: 500+ hours of coursework, 10 coding assignments, 4 projects (Web scraping, EDA, ML,DL)
-</p> 
+Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, Deep Learning, Time Serise, NLP SQL & Analytics
+
 
 
 
@@ -24,7 +22,7 @@ Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine 
 
 - 🔭 I’m currently working on [NLP PROJECTS]
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Genrative AI**
 
 - 👨‍💻 All of my projects are available at [Jovian](http://jovian.ai/tavishi-1402)
 
