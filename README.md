@@ -3,7 +3,7 @@
 
 <p>I Have completed Data Science and Machine Learning Bootcamp by <a href="https://jovian.com/tavishi-1402">Ineuron</a></p>
 <p>
-Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, Deep Learning, Time Serise, NLP SQL & Analytics
+Skills: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, Deep Learning, Time Serise, NLP SQL & Analytics
 
 
 
@@ -20,8 +20,6 @@ Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 
-- 🔭 I’m currently working on [NLP PROJECTS]
-
 - 🌱 I’m currently learning **Genrative AI**
 
 - 👨‍💻 All of my projects are available at [Jovian](http://jovian.ai/tavishi-1402)
@@ -32,7 +30,6 @@ Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine 
 
 - 📫 How to reach me **tavishi.1402@gmail.com**
 
-- 📄 Know about my experiences check out my [resume](https://docs.google.com/document/d/1S7UsBmlYK-rPu83VKO4Yay0yi4Xy9480WeDhshx69dw/edit#)
 
 
 <h3 align="left">Connect with me:</h3>
